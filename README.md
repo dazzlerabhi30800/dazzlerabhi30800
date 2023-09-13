@@ -31,4 +31,4 @@ I am a Frontend Developer Based in India with an experience of 1.5yrs in this fi
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/dazzlerabhi30800/calculator-app-ViteJS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dazzlerabhi30800&repo=calculator-app-ViteJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/dazzlerabhi30800/ecommerce-app-with-firebase" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dazzlerabhi30800&repo=ecommerce-app-with-firebase&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
